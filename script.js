@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "This is coming from a javascript file.";
+document.getElementById("demo").innerHTML = "This is coming from a javascript.";
